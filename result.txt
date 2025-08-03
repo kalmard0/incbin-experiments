@@ -1,0 +1,19 @@
+Temp directory: /tmp/nix-shell-5934-0/tmp.ABlo10R1H2
+Blob size: 536870912 bytes
+gcc version: 14.3.0
+clang version: 19.1.7
+Compiling gcc incbin
+
+real	0m0.597s
+user	0m0.020s
+sys	0m0.571s
+Compiling clang incbin
+
+real	0m1.067s
+user	0m0.137s
+sys	0m0.920s
+Running gcc version
+Sum: 68450497663
+Running clang version
+Sum: 68450497663
+DONE
